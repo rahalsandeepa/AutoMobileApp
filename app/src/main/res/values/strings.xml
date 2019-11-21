@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Auto Mobile Assits</string>
+    <string name="Client">Client</string>
+    <string name="Supplier">Supplier</string>
+    <string name="Customer">Customer</string>
+    <string name="Register">Register</string>
+    <string name="Signin">Sign in</string>
+    <string name="View">View</string>
+    <string name="Name">Name</string>
+    <string name="Address">Address</string>
+    <string name="Email">E-mail</string>
+    <string name="Phone">Phone</string>
+    <string name="Password">Password</string>
+    <string name="Registrationpage">Register</string>
+    <string name="LoginName">Name</string>
+    <string name="LoginPassword">Password</string>
+    <string name="Login">Login</string>
+    <string name="Addspareparts">Add Spareparts</string>
+    <string name="RegName">Name</string>
+    <string name="RegAddress">Address</string>
+    <string name="RegEmail">E-mail</string>
+    <string name="RegPhone">Phone</string>
+    <string name="RegPassword">Password</string>
+    <string name="RegRegister">Register</string>
+    <string name="Registration">Registration</string>
+</resources>
